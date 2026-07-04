@@ -137,7 +137,7 @@ Firewall Closed.
 
 ## 👩‍💻 Author
 
-**Priyadharshini E**
+**sandhiya G**
 
 Cyber Security Internship
 
